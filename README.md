@@ -15,6 +15,8 @@ To Run Locally, Follow these steps
 4. add the configuration .json file to the /config folder (I will attach the config file in the mail)
 5. Run the following command to start the server
 ```npm start```
+6. You can generate the short url via end point : POST : localhost:5001/api/url/generate
+7. Once the short url is generated, you can copy paste it in the browser to test if it is working. 
 
 
 
